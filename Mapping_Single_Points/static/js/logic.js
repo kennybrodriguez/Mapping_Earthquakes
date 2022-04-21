@@ -11,7 +11,7 @@ let map = L.map('mapid').setView([34.0522, -118.2437], 14);
 L.circleMarker([34.0522, -118.2437], {
     radius: 300,
     color: "black",
-    fillColor: '#ffffa1',
+    fillColor: 'yellow',
 
 }).addTo(map);
 
